@@ -1,4 +1,5 @@
-- 👋 привет я @shaman2016scratch или же https://scratch.mit.edu/users/SHAMAN2016/ или https://scratch.mit.edu/users/SHAMAN2016-2 или https://scratch.mit.edu/users/intergram
+- 👋 привет я @shaman2016scratch а в Скретч:
+- https://scratch.mit.edu/users/SHAMAN2016/
 - 👀 Я заинтересован в
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
