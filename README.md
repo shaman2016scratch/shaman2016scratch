@@ -6,6 +6,7 @@
 - ⚡ Fun fact: ...
 - Я имею свой сайт — https://shaman2016scratch.github.io/shaman2016.github.io/
 - SHAMAN2016-WIKI: https://shaman2016scratch.github.io/shaman2016.github.io/wiki
+- Больше информации обо мне на моём сайте — https://shaman2016scratch.github.io/shaman2016.github.io/
 
 <!---
 shaman2016scratch/shaman2016scratch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
