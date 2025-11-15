@@ -6,7 +6,7 @@
 - 💻 сейчас я разрабатываю RussiaScript и многое другое, больше информации тут:
 https://shaman2016scratch.github.io/shaman2016.github.io/
 - Документация по RussiaScript:
-https://shaman2016scratch.github.io/Docs/RussiaScript
+https://shaman2016scratch.github.io/Docs/RussiaScript/
 - Я имею свой сайт — https://shaman2016scratch.github.io/shaman2016.github.io/
 - SHAMAN2016-WIKI: https://shaman2016scratch.github.io/shaman2016.github.io/wiki
 - Больше информации обо мне на моём сайте — https://shaman2016scratch.github.io/shaman2016.github.io/
