@@ -1,5 +1,5 @@
 - 👋 Hi, I'm SHAMAN2016. My website: https://shaman2016scratch.github.io/
-- 👀 I am interested in Scratch, JavaScript, Python, Web
+- 👀 I am interested in Scratch, JavaScript, Python, Web, Dash
 - 🌱 I'm currently learning JavaScript, Node.js, Python, C and Java! And also Dash (as it is constantly updated)
 - 📫 How to contact me — there is a feedback section on my website.
 - ⚡ Interesting fact: ...
