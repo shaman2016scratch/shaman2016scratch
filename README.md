@@ -1,9 +1,10 @@
 - 👋 Hi, I'm SHAMAN2016. My website: https://shaman2016scratch.github.io/
-- 👀 I am interested in Scratch, JavaScript, Python, Web, Dash
+- 👀 I am interested in Scratch, JavaScript, HTML, CSS and Dash
 - 🌱 I'm currently learning JavaScript, Node.js, Python, C and Java! And also Dash (as it is constantly updated)
 - 📫 How to contact me — there is a feedback section on my website.
 - ⚡ Interesting fact: ...
 - 💻 I'm currently working on... Look at the website!
+- I program in: JavaScript and Scratch/Dash
 
 <!---
 shaman2016scratch/shaman2016scratch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
