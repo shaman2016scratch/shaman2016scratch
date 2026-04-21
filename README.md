@@ -4,7 +4,7 @@
 - 📫 How to contact me — there is a feedback section on my website.
 - ⚡ Interesting fact: ...
 - 💻 I'm currently working on... Look at the website!
-- I program in: JavaScript and Scratch/Dash
+- I programing in: JavaScript and Scratch/Dash
 
 <!---
 shaman2016scratch/shaman2016scratch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
