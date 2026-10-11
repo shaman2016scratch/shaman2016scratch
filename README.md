@@ -1,6 +1,6 @@
 - 👋 Hi, I'm SHAMAN2016. My website: https://shaman2016scratch.github.io/
 - 👀 I am interested in Scratch, JavaScript, HTML, CSS and Dash
-- 🌱 I'm currently learning JavaScript, Node.js and Assembly
+- 🌱 I'm currently learning C++
 - 💻 I'm currently working on... I can't list everything.
 - I'm programing on: JavaScript and Scratch/Dash
 
